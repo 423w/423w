@@ -1,5 +1,5 @@
 ## Hi, I'm Wesley
-## 
+## I like low-level programming and want to combine my love for computer science with my love for music
 <!--
 **423w/423w** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
